@@ -1,0 +1,5 @@
+satha, 10, 16
+shiva, 10, 16
+Rakesh, 12, 18
+Ramesh, 12, 19
+sakish, 11, 17
